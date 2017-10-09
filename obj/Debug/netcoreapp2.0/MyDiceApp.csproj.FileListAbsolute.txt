@@ -1,0 +1,10 @@
+X:\StaffHome\jm44\My Documents\Development\GitHub\MyDiceApp\bin\Debug\netcoreapp2.0\MyDiceApp.deps.json
+X:\StaffHome\jm44\My Documents\Development\GitHub\MyDiceApp\bin\Debug\netcoreapp2.0\MyDiceApp.runtimeconfig.json
+X:\StaffHome\jm44\My Documents\Development\GitHub\MyDiceApp\bin\Debug\netcoreapp2.0\MyDiceApp.runtimeconfig.dev.json
+X:\StaffHome\jm44\My Documents\Development\GitHub\MyDiceApp\bin\Debug\netcoreapp2.0\MyDiceApp.dll
+X:\StaffHome\jm44\My Documents\Development\GitHub\MyDiceApp\bin\Debug\netcoreapp2.0\MyDiceApp.pdb
+X:\StaffHome\jm44\My Documents\Development\GitHub\MyDiceApp\obj\Debug\netcoreapp2.0\MyDiceApp.csproj.CoreCompileInputs.cache
+X:\StaffHome\jm44\My Documents\Development\GitHub\MyDiceApp\obj\Debug\netcoreapp2.0\MyDiceApp.AssemblyInfoInputs.cache
+X:\StaffHome\jm44\My Documents\Development\GitHub\MyDiceApp\obj\Debug\netcoreapp2.0\MyDiceApp.AssemblyInfo.cs
+X:\StaffHome\jm44\My Documents\Development\GitHub\MyDiceApp\obj\Debug\netcoreapp2.0\MyDiceApp.dll
+X:\StaffHome\jm44\My Documents\Development\GitHub\MyDiceApp\obj\Debug\netcoreapp2.0\MyDiceApp.pdb
